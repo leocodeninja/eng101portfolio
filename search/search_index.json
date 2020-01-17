@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"My English portfolio English 101 at ASU","title":"Home"},{"location":"#my-english-portfolio","text":"","title":"My English portfolio"},{"location":"#english-101-at-asu","text":"","title":"English 101 at ASU"}]}
+{"config":{"lang":["en"],"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"My English portfolio English 101 at ASU","title":"Home"},{"location":"#my-english-portfolio","text":"English 101 at ASU","title":"My English portfolio"}]}
